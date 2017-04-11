@@ -1,0 +1,14 @@
+# Site settings
+title: MTB tura
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Biciklom kroz lepote istočne Srbije
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+owner:
+  github: lukalakers
+  name: Luka Momčilović
+
+# Build settings
+markdown: kramdown
